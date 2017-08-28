@@ -1,0 +1,14 @@
+*.iml
+.idea
+target/
+journal/
+snapshots/
+log/
+*.log
+node_modules
+build
+test/report.*
+customReportDir
+uploads/
+db/
+!server/*
